@@ -48,7 +48,7 @@ public class Numeros {
     }
 }
 
-/* TURMA: TCTG241CNTDEV      
+/* EXERCÍCIO 2 TURMA: TCTG241CNTDEV      
 
 PROFESSOR: Wagner Pinto
 
