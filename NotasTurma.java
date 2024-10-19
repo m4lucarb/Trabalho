@@ -51,7 +51,7 @@ public class NotasTurma {
     }
 }
 
-/* TURMA: TCTG241CNTDEV      
+/* EXERCÍCIO 3 TURMA: TCTG241CNTDEV      
 
 PROFESSOR: Wagner Pinto
 
