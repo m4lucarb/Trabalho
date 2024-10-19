@@ -59,7 +59,7 @@ public class Palavras {
     }
 }
 
-/* TURMA: TCTG241CNTDEV      
+/* EXERCÍCIO 1 TURMA: TCTG241CNTDEV      
 
 PROFESSOR: Wagner Pinto
 
