@@ -32,7 +32,7 @@ public class DescontoCompra {
     }
 }
 
-/* TURMA: TCTG241CNTDEV      
+/* EXERCÍCIO 4 TURMA: TCTG241CNTDEV      
 
 PROFESSOR: Wagner Pinto
 
